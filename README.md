@@ -67,3 +67,9 @@ Após validar a conexão, você pode submeter circuitos diretamente para as QPUs
 📊 Considerações Técnicas
 Diferente dos simuladores (AerSimulator), os resultados em hardware real apresentam ruído quântico (decoerência e erros de gate). Este projeto inclui rotinas de pós-processamento para converter os dados complexos retornados pelo serviço em distribuições de probabilidade legíveis.
    
+👤 Autor
+- Vitor Eiji – Desenvolvedor Principal – https://github.com/Vitor985-hub
+
+- Formação: Estudante de Inteligência Artificial na FIAP.
+
+- Conecte-se: www.linkedin.com/in/vitor-eiji
