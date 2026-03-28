@@ -27,11 +27,12 @@ Este repositório documenta uma jornada técnica em **Computação Quântica**, 
 
 1. **clone o repositorio**
     ```bash
-    https://github.com/Vitor985-hub/quantum-computing-fundamentals.git
+    https://github.com/Vitor985-hub/Quantum-Computing-Foundations-IBM-Quantum-Integration.git
     ```
 2. **Instale as dependências:**
    ```bash
    pip install -r requirements.txt
+   ```
 3. Configure suas credenciais IBM:
 Abra o arquivo autentification.py, insira sua API Key e execute:
     ```bash
