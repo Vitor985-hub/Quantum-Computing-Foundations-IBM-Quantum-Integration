@@ -12,6 +12,24 @@ Este repositório documenta uma jornada técnica em **Computação Quântica**, 
 * Desenvolver lógica de extração de dados brutos (BitArrays) para lidar com resultados de hardware real.
 
 ## 📂 Estrutura do Repositório
+```bash
+quantum-computing-fundamentals/
+│
+├── experiments/
+│   ├── entanglement.py
+│   ├── superposition.py
+│   ├── wave_function_collapse.py
+│
+├── principal_experiment/
+│   ├── authentication.py
+│   ├── real_wave_function_collapse.py
+│   ├── teste.py
+│
+├── .venv/
+├── .gitignore
+├── README.md
+├── requirements.txt
+```
 
 ### 🔬 Fundamentos (Simuladores)
 * **`superposition.py`**: Criação de estados equiprováveis via porta Hadamard ($H$).
